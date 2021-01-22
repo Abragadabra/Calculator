@@ -19,5 +19,16 @@ int main() {
 
 		cout << "Sum of numbers: " << result << endl;
 	}
+	else if (action == 1) {
+		cout << "Enter the first number: ";
+		cin >> first;
+
+		cout << "Enter the second number: ";
+		cin >> second;
+
+		result = first - second;
+
+		cout << "Difference numbers: " << result << endl;
+	}
 	system("pause");
 }
