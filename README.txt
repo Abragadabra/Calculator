@@ -4,4 +4,7 @@ Also in the future I want to make a graphic design of the program, otherwise you
 Release version:
 
 - V 0.1 (22.01.2021) 
-1) Added number addition system =)
+1) Added number addition system 
+
+- V 0.15 (22.01.2021)
+1) Subtraction system added
