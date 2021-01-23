@@ -56,5 +56,8 @@ int main() {
 
 		cout << "The result of multiplying numbers: " << result << endl;
 	}
+	else {
+		cout << "ERROR! Wrong action!" << endl;
+	}
 	system("pause");
 }
