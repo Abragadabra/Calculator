@@ -8,3 +8,9 @@ Release version:
 
 - V 0.15 (22.01.2021)
 1) Subtraction system added
+
+- V 0.2 (23.01.2021)
+1) Division system
+2) Multiplication system
+3) Accurate results by using the floating point data type
+4) Error display when the wrong action is selected
